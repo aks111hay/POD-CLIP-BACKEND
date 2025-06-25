@@ -11,6 +11,12 @@ This is the **backend** service built using **FastAPI**. It supports:
 
 ---
 
+## Swagger UI Demo 
+![Swagger UI Screenshot](./Screenshot 2025-06-25 121402.png)
+
+## POSTGRES DATABASE OUTPUT  
+![pgadmin Screenshot](./Screenshot 2025-06-25 111733.png)
+
 ## 🚀 Features
 
 - ⏬ Download YouTube clips by specifying timestamps
