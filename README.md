@@ -34,6 +34,7 @@ This is the **backend** service built using **FastAPI**. It supports:
 ---
 
 ## 📦 Project Structure
+```
 pod-clip/
 ├── app/
 │ ├── api/
@@ -51,6 +52,7 @@ pod-clip/
 ├── requirements.txt
 ├── main.py # FastAPI app entrypoint
 └── .env # Environment config
+```
 
 
 ---
@@ -85,8 +87,8 @@ pip install -r requirements.txt
 ```
 ## Create a .env file
 
-GEMINI_API_KEY=your_gemini_api_key
-DATABASE_URL=postgresql+psycopg2://username:password@localhost:5432/podclipdb
+- GEMINI_API_KEY=your_gemini_api_key
+- DATABASE_URL=postgresql+psycopg2://username:password@localhost:5432/podclipdb
 
 ## Database Setup
 ```
